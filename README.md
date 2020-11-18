@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 I like to think I'm a [Product Minded Software Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/). I love leading teams which build products that add [value](https://stanete.com/focus-on-value). Get to know me better by reading some stuff I wrote:
 
+- 📈 [Compound Returns on Engineering Excellence](https://stanete.com/compound-returns-engineering-excellence)
 - 🔥 [How to survive working at a startup](https://stanete.com/survive-working-startup)
 - 😔 [You fucked up. Everybody knows. And now what?](https://stanete.com/fucked-up-everybody-knows)
 - 🚀 [How to start focusing on value](https://stanete.com/focus-on-value)
-
+- 🚧 [Dos and Don'ts for a Product Engineering team](https://stanete.com/dos-and-donts)
+- 📖 [Storytelling tips for technical interviews](https://stanete.com/storytelling-tips-technical-interviews)
