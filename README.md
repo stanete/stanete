@@ -25,6 +25,7 @@ I like to think I'm a [Product Minded Software Engineer](https://blog.pragmatice
 - 📖 [Storytelling tips for technical interviews](https://stanete.com/storytelling-tips-technical-interviews)
 - 😈 [Dealing with the problems of scaleups](https://stanete.com/dealing-problems-scaleups)
 - 🤠 [Different leadership models](https://stanete.com/different-leadership-models)
+- 🎯 [Extreme Programming for Milennialls and Gen Z](https://stanete.com/extreme-programming)
 
 I think any Software Engineer should understand at least the basics of System Design, no matter their seniority or if their specialty is frontend, backend or mobile. Read my series about this topic:
 
