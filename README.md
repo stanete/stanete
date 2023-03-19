@@ -15,20 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I like to think I'm a [Product Minded Software Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/). I love leading teams which build products that add [value](https://stanete.com/focus-on-value). Get to know me better by reading some stuff I wrote:
+I used to lead Technology teams (product, engineering, design & data). Did streaming, fintechs and EVs. Now I'm focused on #longevity and #biotech 🧪
 
-- 📈 [Compound Returns on Engineering Excellence](https://stanete.com/compound-returns-engineering-excellence)
-- 🔥 [How to survive working at a startup](https://stanete.com/survive-working-startup)
-- 😔 [You fucked up. Everybody knows. And now what?](https://stanete.com/fucked-up-everybody-knows)
-- 🚀 [How to start focusing on value](https://stanete.com/focus-on-value)
-- 🚧 [Dos and Don'ts for a Product Engineering team](https://stanete.com/dos-and-donts)
-- 📖 [Storytelling tips for technical interviews](https://stanete.com/storytelling-tips-technical-interviews)
-- 😈 [Dealing with the problems of scaleups](https://stanete.com/dealing-problems-scaleups)
-- 🤠 [Different leadership models](https://stanete.com/different-leadership-models)
-- 🎯 [Extreme Programming for Milennialls and Gen Z](https://stanete.com/extreme-programming)
-- 💰 [Business driven mindset](https://stanete.com/business-driven-mindset)
-
-I think any Software Engineer should understand at least the basics of System Design, no matter their seniority or if their specialty is frontend, backend or mobile. Read my series about this topic:
-
-- 🕋 [System Design 101](https://stanete.com/system-design-101)
-- 📡 [System Design 102](https://stanete.com/system-design-102)
+- 🚀 [A coming of age for longevity](https://www.stanete.com/coming-of-age/)
+- 🏃‍♂️ [Lifestyle changes I made to decelerate aging](https://www.stanete.com/lifestyle-aging/)
+- 🤷‍♂️ [I left my CTO job to work on longevity](https://www.stanete.com/leave-cto-start-longevity/)
+- 👀 [Figuring out what to work on in the longevity field](https://www.stanete.com/work-on-longevity/)
