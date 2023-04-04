@@ -21,3 +21,4 @@ I used to lead Technology teams (product, engineering, design & data). Did strea
 - 🏃‍♂️ [Lifestyle changes I made to decelerate aging](https://www.stanete.com/lifestyle-aging/)
 - 🤷‍♂️ [I left my CTO job to work on longevity](https://www.stanete.com/leave-cto-start-longevity/)
 - 👀 [Figuring out what to work on in the longevity field](https://www.stanete.com/work-on-longevity/)
+- 🧠 [A mental model for aging therapeutics market readiness](https://www.stanete.com/aging-therapeutics-market-readiness/)
