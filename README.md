@@ -15,10 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I used to lead Technology teams (product, engineering, design & data). Did streaming, fintechs and EVs. Now I'm focused on #longevity and #biotech 🧪
-
-- 🚀 [A coming of age for longevity](https://www.stanete.com/coming-of-age/)
-- 🏃‍♂️ [Lifestyle changes I made to decelerate aging](https://www.stanete.com/lifestyle-aging/)
-- 🤷‍♂️ [I left my CTO job to work on longevity](https://www.stanete.com/leave-cto-start-longevity/)
-- 👀 [Figuring out what to work on in the longevity field](https://www.stanete.com/work-on-longevity/)
-- 🧠 [A mental model for aging therapeutics market readiness](https://www.stanete.com/aging-therapeutics-market-readiness/)
+Product minded engineer with extensive experience in launching software, hardware, and biotech products; as well as leading and scaling teams that solve important problems. Passionate about health, science, AI, and the future of humanity.
