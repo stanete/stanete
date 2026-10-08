@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Product minded engineer with extensive experience in launching software, hardware, and biotech products; as well as leading and scaling teams that solve important problems. Passionate about health, science, AI, and the future of humanity.
+I’m a product minded engineering leader passionate about creating an impact on people’s health. 
+
+I’m inspired by extreme programming, lean software development, and management 3.0.
+
+In my spare time I make **free** apps that do one thing well. No accounts, no tracking, nothing to learn before you start.
+
