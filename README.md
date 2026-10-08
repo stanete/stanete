@@ -19,5 +19,5 @@ I’m a product minded engineering leader passionate about creating an impact on
 
 I’m inspired by extreme programming, lean software development, and management 3.0.
 
-Sometimes I make **free** apps that do one thing well. No accounts, no tracking, nothing to learn before you start.
+Occasionally I make **free** apps that do one thing well. No accounts, no tracking, nothing to learn before you start.
 
